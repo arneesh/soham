@@ -1,6 +1,6 @@
 [project]
 name = "soham"
-version = "0.0.1"
+version = "0.0.2"
 description = "A multiagent system that can do multiple jobs at once"
 readme = "README.md"
 requires-python = ">=3.12"
