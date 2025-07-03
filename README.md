@@ -31,7 +31,7 @@ Soham is a multi-agent system designed to perform the work of multiple developer
 - 🤖 Multiple agents, many jobs
 - 🧠 Collaboration and coordination
 - 🎲 Built for fun, experimentation, and a bit of chaos
-- <b>🚀 This team of agents will get the work done.😎 Well, might get the work done.🤔 Idk will try for sure, depends on the underlying models...</b> ✌️🥶
+- 🚀 This team of agents will get the work done.😎 Well, might get the work done.🤔 Idk will try for sure, depends on the underlying models... ✌️🥶
 
 
 ---
