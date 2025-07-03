@@ -1,0 +1,11 @@
+[project]
+name = "soham"
+version = "0.0.1"
+description = "A multiagent system that can do multiple jobs at once"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
